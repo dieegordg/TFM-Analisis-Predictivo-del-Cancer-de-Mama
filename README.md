@@ -1,4 +1,4 @@
-# Predicción de la supervivencia a cinco años en cáncer de mama
+# Análisis predictivo del cáncer de mama: predicción de la supervivencia a cinco años mediante aprendizaje automático con datos SEER
 
 Trabajo Fin de Máster del Máster Universitario en Big Data Science de la Universidad de Navarra.
 
